@@ -1,0 +1,11 @@
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\bin\Debug\databaseLogin.exe.config
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\bin\Debug\databaseLogin.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\bin\Debug\databaseLogin.pdb
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.csprojAssemblyReference.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.loginForm.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.frmloggedin.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.Properties.Resources.resources
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.csproj.GenerateResource.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.csproj.CoreCompileInputs.cache
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.exe
+C:\Users\Troy\Documents\Coding\C#\Udemy\databaseLogin\obj\Debug\databaseLogin.pdb
